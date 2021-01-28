@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Feliz Navidad</string>
+    <string name="app_name">¡Feliz Navidad!</string>
     <string name="feliz_navidad">{¡FELIZ NAVIDAD!}</string>
     <string name="de_parte_de">De parte de:</string>
     <string name="andrea">| Andrea |</string>
+    <string name="textoSplash">|Cargando la tarjeta navideña|</string>
 </resources>
